@@ -1,2 +1,2 @@
 # diocane
-test simple app in Flutter.
+simple test app in Flutter.
