@@ -249,7 +249,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   //color: Colors.black, //va in conflitto con la proprietà decoration
                   width: 100.0,
                   height: 100.0,
-                  decoration: BoxDecoration(border: Border.all(color: Colors.black), borderRadius: BorderRadius.circular(12), image: const DecorationImage(image: NetworkImage(''), fit: BoxFit.fill)),
+                  decoration: BoxDecoration(border: Border.all(color: Colors.black), borderRadius: BorderRadius.circular(12), image: const DecorationImage(image: NetworkImage('https://github.com/FleureauAxel/diocane/raw/master/IMG_7698.JPG'), fit: BoxFit.fill)),
                   margin: const EdgeInsets.all(25.0),
                   padding: const EdgeInsets.all(10.0),
                 ),
